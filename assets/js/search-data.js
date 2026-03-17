@@ -88,17 +88,6 @@ ninja.data = [{
           window.location.href = "/blog/2025/RTX-5060-Ti-%E5%AE%89%E8%A3%85-TensorFlow/";
         
       },
-    },{id: "post-ubuntu-22-04-安装-mysql",
-      
-        title: "Ubuntu 22.04 安装 MySQL",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2022/Ubuntu-22.04-%E5%AE%89%E8%A3%85-MySQL/";
-        
-      },
     },{id: "post-ubuntu-22-04-macos-monterey-主题",
       
         title: "Ubuntu 22.04 MacOS Monterey 主题",
@@ -141,28 +130,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2021/%E5%85%B3%E4%BA%8ELinux%E4%B8%8BLaTeX%E6%97%A0%E6%B3%95%E6%89%BE%E5%88%B0%E5%B7%B2%E5%AE%89%E8%A3%85%E5%AD%97%E4%BD%93%E7%9A%84%E9%97%AE%E9%A2%98%E4%B8%8E%E8%A7%A3%E5%86%B3/";
-        
-      },
-    },{id: "post-ubuntu-21-04-使用命令行分配静态ip地址",
-      
-        title: "Ubuntu 21.04 使用命令行分配静态IP地址",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2021/Ubuntu-21.04-%E4%BD%BF%E7%94%A8%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%88%86%E9%85%8D%E9%9D%99%E6%80%81IP%E5%9C%B0%E5%9D%80/";
-        
-      },
-    },{id: "post-批量下载youtube播放列表-playlist-视频-字幕",
-      
-        title: "批量下载YouTube播放列表（playlist）视频、字幕",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2021/%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BDYouTube%E6%92%AD%E6%94%BE%E5%88%97%E8%A1%A8-playlist-%E8%A7%86%E9%A2%91-%E5%AD%97%E5%B9%95/";
         
       },
     },{id: "post-关于-rnn-循环神经网络的反向传播求导",
