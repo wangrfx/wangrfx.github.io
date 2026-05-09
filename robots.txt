@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://jkfx.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://wangrfx.github.io/sitemap.xml

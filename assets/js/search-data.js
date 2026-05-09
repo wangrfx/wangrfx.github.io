@@ -192,21 +192,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%67%65%65%6B%6A%6B%66%78@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%77%61%6E%67%72%66%78@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/jkfx", "_blank");
-        },
-      },{
-        id: 'social-kaggle',
-        title: 'Kaggle',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.kaggle.com/geekfx", "_blank");
+          window.open("https://github.com/wangrfx", "_blank");
         },
       },{
         id: 'social-rss',
@@ -220,7 +213,7 @@ ninja.data = [{
         title: 'telegram',
         section: 'Socials',
         handler: () => {
-          window.open("https://telegram.me/geek_fx", "_blank");
+          window.open("https://telegram.me/wangrfx", "_blank");
         },
       },{
       id: 'light-theme',
