@@ -1,9 +1,10 @@
 github_users:
-  - jkfx
+  - wangrfx
 
 repo_description_lines_max: 1
 
 github_repos:
-  - jkfx/vmess2config
-  - jkfx/QITthesis
-  - jkfx/CASIA-WebMaskedFace
+  - wangrfx/vmess2config
+  - wangrfx/QITthesis
+  - wangrfx/CASIA-WebMaskedFace
+  - wangrfx/HBUTBeamer

@@ -3,21 +3,21 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Geek
-middle_name: F.
+first_name: Ruifeng
+middle_name: W
 last_name: x
 contact_note: >
-  geekjkfx@gmail.com
+  wangrfx@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: academic-website, portfolio-website, geek, geekfx, geekjkfx, jkfx, blog, computer-science, deep-learning, AI # add your own keywords or leave empty
+keywords: academic-website, portfolio-website, wangrfx, blog, computer-science, deep-learning, AI # add your own keywords or leave empty
 lang: cn # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon/favicon_blue/favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://jkfx.github.io # the base hostname & protocol for your site
+url: https://wangrfx.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -86,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: GeekFx # blog_name will be displayed in your blog page
+blog_name: wangrfx # blog_name will be displayed in your blog page
 blog_description:
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -115,7 +115,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: jkfx # put your disqus shortname
+disqus_shortname: fx # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
