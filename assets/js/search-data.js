@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "post-latex-math-typesetting-guide",
+        },{id: "post-gemini-网页端显示-出了点问题-请稍后再试-了解详情",
+      
+        title: "Gemini 网页端显示 `出了点问题 请稍后再试。 了解详情`",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/Gemini-%E7%BD%91%E9%A1%B5%E7%AB%AF/";
+        
+      },
+    },{id: "post-latex-math-typesetting-guide",
       
         title: "LaTeX Math Typesetting Guide",
       
