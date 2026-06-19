@@ -4,7 +4,5 @@ github_users:
 repo_description_lines_max: 1
 
 github_repos:
-  - wangrfx/vmess2config
-  - wangrfx/QITthesis
   - wangrfx/CASIA-WebMaskedFace
   - wangrfx/HBUTBeamer
